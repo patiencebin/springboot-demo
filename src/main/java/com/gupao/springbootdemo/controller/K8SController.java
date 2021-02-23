@@ -11,6 +11,6 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s(){
-        return "hello K8s <br/> CI&CD SUCCESS  next  成功吧  ";
+        return "hello K8s <br/> CI&CD SUCCESS  next  成功吧   2.23";
     }
 }
